@@ -40,5 +40,5 @@ jobs:
             echo "No upstream data change, skip commit."
           else
             git commit -m "chore: monthly data refresh ($(date +%Y-%m))"
-            git push
+            git push origin HEAD:main   # checkout 默认是游离 HEAD, 必须显式推回 main
           fi
