@@ -1,0 +1,25 @@
+{
+ "n_topics_scored": 68,
+ "prevalence": 0.2647058823529412,
+ "threshold_real_share_gain_pp": 0.010817787921056903,
+ "P@5_composite_score": 0.6,
+ "P@10_composite_score": 0.6,
+ "P@15_composite_score": 0.4666666666666667,
+ "P@20_composite_score": 0.55,
+ "P@5_baseline_size": 0.4,
+ "P@10_baseline_size": 0.2,
+ "P@15_baseline_size": 0.26666666666666666,
+ "P@20_baseline_size": 0.3,
+ "P@5_baseline_cagr_only": 0.4,
+ "P@10_baseline_cagr_only": 0.7,
+ "P@15_baseline_cagr_only": 0.6,
+ "P@20_baseline_cagr_only": 0.55,
+ "spearman_score_vs_realized": 0.29159827461159676,
+ "spearman_pvalue": 0.01583541114977698,
+ "portfolio_top10_mean_real_share_gain": {
+  "综合得分": 0.5163890864678804,
+  "仅近期增速": 0.6355325370871097,
+  "按规模": -0.32028131034301627
+ },
+ "portfolio_field_mean": -0.0019530595895683696
+}
