@@ -17,8 +17,9 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA, FIG = ROOT / "data", ROOT / "figures"
 FIG.mkdir(exist_ok=True)
 
-# ---- 中文字体 ----
-for name in ("PingFang SC", "Hiragino Sans GB", "Arial Unicode MS", "Heiti SC"):
+# ---- 中文字体 (macOS 本地 / Linux CI 的 Noto CJK 均可) ----
+for name in ("PingFang SC", "Hiragino Sans GB", "Arial Unicode MS", "Heiti SC",
+             "Noto Sans CJK SC", "Noto Sans CJK", "WenQuanYi Zen Hei"):
     if any(name.lower() in f.name.lower() for f in font_manager.fontManager.ttflist):
         plt.rcParams["font.family"] = name
         break

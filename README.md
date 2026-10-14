@@ -7,6 +7,10 @@
 
 新兴研究主题早期识别与生命周期研判 —— 基于 OpenAlex 2.5 亿+ 文献数据，覆盖管理科学/信息系统领域 81 个研究主题（2010–2025）。
 
+![monthly refresh](https://github.com/gongsjie3-cyber/research-frontier-radar/actions/workflows/monthly_update.yml/badge.svg)
+
+本仓库由 GitHub Actions **每月自动重跑**数据采集、信号建模与图表更新（`.github/workflows/monthly_update.yml`），榜单随上游数据持续演进。
+
 **完整方法与结果 → [report/项目报告.md](report/项目报告.md)**
 
 ## 结果速览
