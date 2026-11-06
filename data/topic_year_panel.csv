@@ -1,82 +1,82 @@
 ﻿topic_id,topic_name,subfields,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026
-T10050,Multi-Criteria Decision Making,1803:Management Science and Operations Research,5124,5979,6015,6553,6883,6604,7305,7248,7923,8808,8659,8730,8380,9328,9069,9600,8128
-T10058,Entrepreneurship Studies and Influences,1405:Management of Technology and Innovation,7614,8719,10154,10681,11920,12950,13355,13452,13957,14608,15233,13756,12437,13923,15497,17384,14764
-T10068,Technology Adoption and User Behaviour,1802:Information Systems and Management,3300,4513,4255,4644,5096,5221,5628,5872,6570,7471,7788,7691,8126,9596,11150,13853,13021
-T10164,Quality and Supply Management,1404:Management Information Systems,4456,4784,5086,5153,5386,5584,5458,5794,5720,5755,5126,4090,3653,4042,4242,4481,3699
-T10328,Supply Chain and Inventory Management,1404:Management Information Systems,5297,5747,5533,5822,5724,5636,5904,5503,5668,5808,5502,5258,4849,5348,6168,7008,6553
-T10357,Efficiency Analysis Using DEA,1803:Management Science and Operations Research,3247,3735,4149,4269,4296,4232,3954,3849,4102,4068,4222,3948,3644,3559,3460,3482,2842
-T10395,Construction Project Management and Performance,1803:Management Science and Operations Research,8524,8149,7843,8158,8498,8368,8544,8681,9045,9773,9763,8195,8965,9871,11425,13286,11063
-T10467,Psychometric Methodologies and Testing,1803:Management Science and Operations Research,3958,4313,4440,5168,5507,5171,5286,5363,5279,5128,5520,5163,4673,5042,4959,5879,7166
-T10703,Business Process Modeling and Analysis,1404:Management Information Systems,3205,3475,3282,3235,3333,3258,3354,3181,3103,2909,2552,2100,1965,2110,2279,2769,2749
-T10797,Accounting and Organizational Management,1404:Management Information Systems,6275,6946,7288,7329,7614,7655,7347,7285,6954,6726,6769,5215,4582,5132,5153,6318,5467
-T10856,Intellectual Property and Patents,1405:Management of Technology and Innovation,3425,3698,3700,3938,3767,3630,3771,3226,3067,3051,2908,2464,2096,2272,2310,2766,2996
-T10974,Advanced Queuing Theory Analysis,1404:Management Information Systems,1448,1717,1505,1630,1593,1599,1569,1552,1554,1550,1494,1435,1227,1247,1323,1249,1177
-T11031,Game Theory and Applications,1803:Management Science and Operations Research,2007,2146,2172,2272,2223,2156,2315,2171,2080,1972,2188,1856,1816,1980,2041,2417,2807
-T11058,Ethics in Business and Education,1802:Information Systems and Management,2777,3357,3717,3652,3691,3964,3979,4227,4273,3878,4045,3360,2971,3370,3460,3995,3649
-T11182,Auction Theory and Applications,1803:Management Science and Operations Research,1350,1408,1268,1305,1301,1181,1168,1096,1109,1007,982,908,824,885,834,1002,1213
-T11195,Simulation Techniques and Applications,1803:Management Science and Operations Research,1677,1821,1800,1808,1694,1688,1817,1703,1518,1331,1224,1088,913,917,960,1001,1429
-T11326,Stock Market Forecasting Methods,1803:Management Science and Operations Research,733,863,1137,1014,1140,1129,1328,1492,1971,2392,2958,3454,4067,5149,6699,8883,8550
-T11413,Risk and Portfolio Optimization,1803:Management Science and Operations Research,1457,1559,1703,1627,1639,1631,1839,1696,1670,1700,1579,1694,1632,1712,1887,2079,2311
-T11530,Business and Management Studies,1802:Information Systems and Management,526,609,609,581,626,769,695,637,707,639,553,402,371,307,334,388,326
-T11572,Information Technology Governance and Strategy,1404:Management Information Systems,3107,3504,3526,3357,3140,3231,3278,3383,3295,3065,2770,2230,2090,2302,2322,2867,3410
-T11671,Fuzzy and Soft Set Theory,1803:Management Science and Operations Research,773,860,933,1035,1115,1126,1194,1351,1547,1451,1741,1681,1467,1520,1551,1695,1290
-T11719,Data Quality and Management,1803:Management Science and Operations Research,995,1159,1103,1114,1221,1309,1319,1431,1530,1510,1465,1317,1205,1394,1551,2098,2412
-T11720,Probability and Risk Models,1803:Management Science and Operations Research,1100,1144,1074,1192,1337,1194,1240,1097,1016,888,946,921,894,845,881,926,852
-T11729,Product Development and Customization,1405:Management of Technology and Innovation,1999,2165,1974,1887,1855,1714,1712,1537,1386,1331,1143,950,756,806,750,739,750
-T11734,Decision Support System Applications,1404:Management Information Systems,2640,3071,2880,3643,3712,4197,4533,5706,6027,6951,5926,5621,5307,6356,6359,5793,4711
-T11798,Optimal Experimental Design Methods,1803:Management Science and Operations Research,1520,1513,1547,1597,1755,1563,1733,1437,1510,1349,1357,1251,1098,1096,1153,1240,1213
-T11810,Complex Systems and Decision Making,1803:Management Science and Operations Research,1039,1111,1226,1175,1191,1152,1198,1280,1287,1200,1269,1019,943,1011,1016,1155,1686
-T11891,Big Data and Business Intelligence,1404:Management Information Systems,1512,1702,1894,1884,2272,2537,2618,2698,2894,2977,2987,2486,2772,3290,3996,5403,5216
-T11912,Outsourcing and Supply Chain Management,1404:Management Information Systems,2829,3107,2895,2631,2495,2455,2172,1950,1765,1544,1367,1136,886,915,933,989,919
-T11918,Forecasting Techniques and Applications,1803:Management Science and Operations Research,2166,2369,2539,2631,2739,2907,2937,2960,3040,3675,3813,3603,3340,4069,4838,6084,5600
-T11938,ERP Systems Implementation and Impact,1404:Management Information Systems,2209,2440,2307,2222,2121,2192,2136,1865,1752,1817,1622,1300,2525,1425,1608,2764,3230
-T11986,Scientific Computing and Data Management,1802:Information Systems and Management,941,1033,993,1095,1188,1376,1549,1592,1700,1689,1491,1477,1474,1514,1574,3226,14387
-T11995,"FinTech, Crowdfunding, Digital Finance",1404:Management Information Systems,186,270,445,794,1756,2432,2619,2509,3165,3682,3846,3649,3312,4121,5026,9027,9192
-T12010,Evaluation and Performance Assessment,1803:Management Science and Operations Research,1990,2166,2399,2385,2546,2530,2604,2610,2628,2295,2427,1967,1774,2031,1921,2320,2187
-T12101,Advanced Bandit Algorithms Research,1803:Management Science and Operations Research,207,229,257,303,348,430,509,617,750,928,1176,1205,1120,1186,1281,1531,1962
-T12177,Resource-Constrained Project Scheduling,1803:Management Science and Operations Research,779,776,789,833,890,828,829,866,875,894,717,758,610,756,839,895,660
-T12368,Grey System Theory Applications,1803:Management Science and Operations Research,1279,1395,1197,1230,945,823,624,356,376,407,483,523,538,533,508,458,213
-T12401,Scheduling and Timetabling Solutions,1803:Management Science and Operations Research,620,622,701,711,672,666,781,723,764,799,712,603,534,598,672,791,803
-T12594,Collaboration in agile enterprises,1405:Management of Technology and Innovation,737,788,614,510,512,431,419,405,387,399,393,350,347,360,390,358,319
-T12607,Personal Information Management and User Behavior,1802:Information Systems and Management,1101,1031,1051,886,928,976,1007,888,752,809,814,555,505,444,585,813,1230
-T12659,Innovation Diffusion and Forecasting,1803:Management Science and Operations Research,758,885,876,854,896,858,725,731,657,611,568,470,461,412,416,515,721
-T12671,Management and Marketing Education,1405:Management of Technology and Innovation,1981,2202,2541,2471,2809,2613,2242,2194,2128,1981,2377,1701,1277,1432,1575,1772,1656
-T12734,Information Systems and Technology Applications,1404:Management Information Systems,1341,1283,1125,1259,1115,1364,1100,1046,1008,945,885,704,770,807,926,1143,1163
-T12735,Blood donation and transfusion practices,1405:Management of Technology and Innovation,852,930,961,1065,1098,1256,1124,1100,1166,1260,1332,1444,1322,1525,1458,1595,1346
-T12766,Interdisciplinary Research and Collaboration,1802:Information Systems and Management,1782,1785,1924,2157,2333,2175,2373,2455,2270,2445,2579,2320,2146,2396,2568,2994,2924
-T12885,Digital Innovation in Industries,1405:Management of Technology and Innovation,526,730,702,857,1061,1728,1533,1664,1839,2163,2239,2519,2242,2807,3507,4835,3898
-T12926,Business Strategies and Management Research,1803:Management Science and Operations Research,439,554,556,534,599,596,689,613,598,569,696,583,497,618,634,747,629
-T12945,Quality Function Deployment in Product Design,1405:Management of Technology and Innovation,434,452,469,536,522,559,590,554,612,627,541,485,410,501,531,524,374
-T13181,Economic and Technological Systems Analysis,1405:Management of Technology and Innovation,95,116,163,152,147,176,152,177,188,201,307,276,245,261,303,403,298
-T13276,University-Industry-Government Innovation Models,1405:Management of Technology and Innovation,1586,1901,2032,2233,2286,2394,2130,1951,2068,1975,1908,1848,1549,1596,1800,2312,2034
-T13405,Educational Assessment and Improvement,1802:Information Systems and Management,1755,1668,2020,2202,2168,2067,2085,1986,2137,1818,1635,1087,1065,1073,1005,1433,1482
+T10050,Multi-Criteria Decision Making,1803:Management Science and Operations Research,4890,5671,5713,6236,6521,6240,6920,6898,7587,8504,8366,8464,8209,9130,8920,9457,8821
+T10058,Entrepreneurship Studies and Influences,1405:Management of Technology and Innovation,7336,8321,9715,10192,11364,12328,12769,12826,13313,13980,14519,13212,12164,13611,15192,17045,15818
+T10068,Technology Adoption and User Behaviour,1802:Information Systems and Management,3091,3821,3959,4315,4756,4908,5265,5536,6183,7067,7321,7327,7970,9408,10934,13675,14114
+T10164,Quality and Supply Management,1404:Management Information Systems,4263,4531,4862,4933,5200,5379,5212,5557,5481,5533,4925,3972,3594,3966,4198,4439,4019
+T10328,Supply Chain and Inventory Management,1404:Management Information Systems,5084,5513,5291,5557,5481,5402,5683,5283,5428,5638,5323,5009,4710,5173,5996,6907,7222
+T10357,Efficiency Analysis Using DEA,1803:Management Science and Operations Research,3046,3455,3829,3973,4012,3918,3712,3612,3911,3861,4023,3775,3548,3453,3377,3392,3076
+T10395,Construction Project Management and Performance,1803:Management Science and Operations Research,8263,7847,7550,7860,8205,8120,8262,8427,8807,9483,9472,8037,8896,9784,11338,13220,11991
+T10467,Psychometric Methodologies and Testing,1803:Management Science and Operations Research,3725,4077,4193,4858,5192,4848,5013,5113,5035,4874,5183,4949,4509,4871,4788,5731,7644
+T10703,Business Process Modeling and Analysis,1404:Management Information Systems,3081,3210,3130,3091,3189,3133,3202,3051,2987,2812,2457,2028,1920,2061,2218,2743,2958
+T10797,Accounting and Organizational Management,1404:Management Information Systems,5968,6588,6880,6872,7178,7228,6947,6958,6608,6416,6460,5017,4491,5022,5053,6244,5947
+T10856,Intellectual Property and Patents,1405:Management of Technology and Innovation,3252,3425,3494,3728,3514,3390,3520,3035,2896,2766,2733,2342,2023,2177,2241,2685,3388
+T10974,Advanced Queuing Theory Analysis,1404:Management Information Systems,1346,1592,1399,1550,1497,1507,1469,1456,1490,1472,1401,1364,1190,1212,1278,1225,1268
+T11031,Game Theory and Applications,1803:Management Science and Operations Research,1893,2006,2021,2117,2071,2025,2179,2037,1970,1865,2053,1736,1712,1864,1935,2307,2966
+T11058,Ethics in Business and Education,1802:Information Systems and Management,2671,3193,3578,3479,3527,3807,3829,4079,4130,3715,3897,3209,2929,3317,3414,3943,3925
+T11182,Auction Theory and Applications,1803:Management Science and Operations Research,1273,1297,1192,1213,1221,1121,1097,1034,1041,942,921,835,756,809,772,937,1240
+T11195,Simulation Techniques and Applications,1803:Management Science and Operations Research,1627,1742,1706,1723,1614,1622,1725,1645,1474,1276,1187,1049,897,901,938,979,1556
+T11326,Stock Market Forecasting Methods,1803:Management Science and Operations Research,709,790,1085,975,1087,1086,1273,1443,1892,2301,2840,3346,4008,5035,6586,8769,9381
+T11413,Risk and Portfolio Optimization,1803:Management Science and Operations Research,1387,1475,1590,1549,1556,1530,1732,1603,1588,1604,1486,1562,1563,1630,1824,2025,2513
+T11530,Business and Management Studies,1802:Information Systems and Management,507,598,590,561,613,739,672,626,706,630,542,393,367,303,330,383,370
+T11572,Information Technology Governance and Strategy,1404:Management Information Systems,2995,3032,3402,3238,3002,3119,3186,3290,3203,2982,2695,2159,2065,2288,2298,2852,3723
+T11671,Fuzzy and Soft Set Theory,1803:Management Science and Operations Research,721,798,884,969,1055,1049,1134,1289,1485,1398,1665,1616,1448,1493,1538,1648,1402
+T11719,Data Quality and Management,1803:Management Science and Operations Research,962,1074,1064,1068,1175,1264,1285,1360,1495,1465,1421,1282,1183,1364,1520,2066,2660
+T11720,Probability and Risk Models,1803:Management Science and Operations Research,1049,1051,975,1084,1231,1079,1142,1003,944,835,885,847,855,788,833,891,901
+T11729,Product Development and Customization,1405:Management of Technology and Innovation,1926,2079,1919,1826,1785,1644,1643,1488,1335,1277,1115,913,744,783,738,726,837
+T11734,Decision Support System Applications,1404:Management Information Systems,2596,2916,2809,3550,3622,4065,4430,5559,5893,6827,5806,5480,5276,6340,6325,5853,5249
+T11798,Optimal Experimental Design Methods,1803:Management Science and Operations Research,1442,1441,1479,1498,1674,1473,1639,1370,1443,1284,1292,1204,1067,1058,1110,1198,1333
+T11810,Complex Systems and Decision Making,1803:Management Science and Operations Research,998,1044,1169,1116,1133,1108,1155,1238,1237,1161,1226,1000,926,989,998,1140,1871
+T11891,Big Data and Business Intelligence,1404:Management Information Systems,1448,1531,1829,1789,2196,2463,2543,2632,2829,2915,2922,2451,2751,3271,3959,5405,5752
+T11912,Outsourcing and Supply Chain Management,1404:Management Information Systems,2728,2810,2757,2494,2387,2341,2076,1858,1687,1478,1298,1098,866,903,908,961,1010
+T11918,Forecasting Techniques and Applications,1803:Management Science and Operations Research,2056,2234,2399,2474,2588,2739,2764,2785,2901,3511,3655,3472,3275,3977,4791,6031,6151
+T11938,ERP Systems Implementation and Impact,1404:Management Information Systems,2124,2166,2218,2117,2024,2122,2056,1795,1687,1765,1582,1260,2506,1414,1589,2760,3460
+T11986,Scientific Computing and Data Management,1802:Information Systems and Management,914,977,974,1073,1166,1339,1519,1536,1656,1640,1449,1432,1375,1414,1517,2526,8205
+T11995,"FinTech, Crowdfunding, Digital Finance",1404:Management Information Systems,180,259,427,758,1690,2327,2498,2402,2997,3533,3669,3488,3245,4025,4879,8923,9652
+T12010,Evaluation and Performance Assessment,1803:Management Science and Operations Research,1913,2067,2292,2271,2429,2424,2514,2513,2546,2242,2329,1893,1720,1958,1875,2261,2388
+T12101,Advanced Bandit Algorithms Research,1803:Management Science and Operations Research,199,211,242,290,332,403,472,569,714,875,1106,1137,1050,1127,1230,1478,2081
+T12177,Resource-Constrained Project Scheduling,1803:Management Science and Operations Research,738,746,750,801,854,797,787,832,851,874,685,736,603,742,829,889,716
+T12368,Grey System Theory Applications,1803:Management Science and Operations Research,1186,1286,1113,1149,879,759,589,347,367,403,474,519,531,525,497,447,233
+T12401,Scheduling and Timetabling Solutions,1803:Management Science and Operations Research,610,610,682,688,645,639,738,708,739,773,686,583,519,585,660,782,887
+T12594,Collaboration in agile enterprises,1405:Management of Technology and Innovation,716,652,585,482,486,407,406,387,361,376,373,344,339,355,382,355,340
+T12607,Personal Information Management and User Behavior,1802:Information Systems and Management,1081,998,1034,877,909,958,989,870,745,788,793,542,498,436,594,806,1328
+T12659,Innovation Diffusion and Forecasting,1803:Management Science and Operations Research,711,818,812,820,851,812,689,703,633,579,544,443,450,407,411,496,792
+T12671,Management and Marketing Education,1405:Management of Technology and Innovation,1927,2105,2462,2358,2752,2500,2181,2147,2076,1935,2317,1672,1268,1417,1621,1758,1784
+T12734,Information Systems and Technology Applications,1404:Management Information Systems,1298,1195,1094,1224,1065,1307,1059,1014,982,928,864,684,762,806,930,1159,1268
+T12735,Blood donation and transfusion practices,1405:Management of Technology and Innovation,808,879,912,1026,1051,1214,1084,1057,1124,1205,1288,1407,1297,1502,1427,1569,1649
+T12766,Interdisciplinary Research and Collaboration,1802:Information Systems and Management,1687,1657,1838,2047,2198,2052,2301,2345,2192,2350,2399,2220,2082,2317,2498,2909,3188
+T12885,Digital Innovation in Industries,1405:Management of Technology and Innovation,509,620,688,827,1038,1696,1503,1615,1810,2107,2188,2457,2224,2802,3477,4808,4246
+T12926,Business Strategies and Management Research,1803:Management Science and Operations Research,428,525,533,510,568,574,670,603,574,549,679,565,491,605,624,729,687
+T12945,Quality Function Deployment in Product Design,1405:Management of Technology and Innovation,415,419,440,499,496,531,565,525,577,605,516,469,404,496,528,518,412
+T13181,Economic and Technological Systems Analysis,1405:Management of Technology and Innovation,89,112,149,139,130,159,142,158,173,189,289,268,241,257,298,402,331
+T13276,University-Industry-Government Innovation Models,1405:Management of Technology and Innovation,1508,1774,1903,2101,2131,2266,2025,1838,1945,1873,1812,1766,1498,1575,1761,2274,2193
+T13405,Educational Assessment and Improvement,1802:Information Systems and Management,1699,1584,1924,2136,2065,1972,2022,1907,2065,1763,1577,1046,1047,1050,992,1421,1603
 T13480,Innovations and Analysis in Business and Education,1803:Management Science and Operations Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-T13529,Education Systems and Policies,1405:Management of Technology and Innovation,279,266,371,399,442,531,525,495,583,833,773,736,934,1107,1145,1275,1088
-T13587,Q Methodology Applications,1803:Management Science and Operations Research,111,124,136,163,154,165,210,174,181,186,212,212,122,111,148,182,168
-T13607,Academic Publishing and Open Access,1802:Information Systems and Management,1886,1930,2436,2832,3008,2879,2981,3086,3007,3480,5052,3984,3596,3485,3368,4090,4349
-T13609,"Economic, Social, and Public Health Issues in Russia and Globally",1803:Management Science and Operations Research,24,28,33,39,30,51,47,42,31,61,39,40,40,35,32,26,12
-T13611,"Education, Management, Technology, Human Resources",1802:Information Systems and Management,313,380,376,389,424,416,422,426,419,542,638,552,508,575,783,927,723
+T13529,Education Systems and Policies,1405:Management of Technology and Innovation,265,256,350,378,433,508,504,471,563,804,741,729,929,1097,1140,1288,1180
+T13587,Q Methodology Applications,1803:Management Science and Operations Research,96,108,117,130,139,139,184,161,157,161,173,188,122,106,141,177,188
+T13607,Academic Publishing and Open Access,1802:Information Systems and Management,1809,1873,2369,2778,2905,2803,2919,3027,2926,3394,4918,3827,3505,3413,3279,3992,4712
+T13609,"Economic, Social, and Public Health Issues in Russia and Globally",1803:Management Science and Operations Research,22,25,31,38,26,41,41,37,27,56,35,37,39,34,33,27,14
+T13611,"Education, Management, Technology, Human Resources",1802:Information Systems and Management,305,361,352,373,413,401,402,406,394,526,600,545,501,574,770,921,784
 T13612,Advanced Scientific and Engineering Studies,1803:Management Science and Operations Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-T13696,Technology's Impact on Media,1802:Information Systems and Management,0,1,1,2,5,5,8,13,29,28,36,41,53,109,214,366,389
-T13758,Energy Law and Policy,1802:Information Systems and Management,1321,1457,1806,1832,2294,2219,2071,1821,1914,1531,1664,1441,1261,1391,1715,1932,1375
-T13794,Financial Reporting and XBRL,1404:Management Information Systems,321,317,334,332,350,356,339,399,329,350,350,289,253,281,316,415,538
-T13886,Operations Management Techniques,1803:Management Science and Operations Research,199,206,201,224,214,222,209,252,244,228,177,167,120,144,148,183,180
-T13963,Organizational Management and Leadership,1405:Management of Technology and Innovation,429,420,476,451,436,454,403,349,333,320,325,310,296,308,353,443,549
-T13985,Enterprise Management and Information Systems,1405:Management of Technology and Innovation,773,836,899,839,859,833,816,779,744,961,998,842,785,956,1070,1010,752
-T14014,Transportation Systems and Infrastructure,1405:Management of Technology and Innovation,69,83,114,90,96,99,107,84,80,113,75,64,68,65,60,91,105
-T14121,Logistics and Transportation Systems,1404:Management Information Systems,1534,1606,1697,1636,1766,1654,1671,1555,1563,1512,1312,977,771,995,1147,1375,1151
-T14147,Innovative Approaches in Technology and Social Development,1405:Management of Technology and Innovation,262,337,442,546,586,628,856,896,1018,968,1012,1009,1015,894,1034,1279,1329
-T14185,"Research, Science, and Academia",1802:Information Systems and Management,7740,8076,8206,7928,8179,8416,8086,7225,7141,7279,7239,6306,5388,6021,5459,6892,7388
+T13696,Technology's Impact on Media,1802:Information Systems and Management,0,1,1,2,4,5,8,11,27,27,32,38,53,106,212,366,421
+T13758,Energy Law and Policy,1802:Information Systems and Management,1277,1400,1749,1751,2192,2128,1997,1749,1853,1467,1587,1384,1226,1367,1690,1874,1550
+T13794,Financial Reporting and XBRL,1404:Management Information Systems,305,301,317,321,330,341,324,377,321,340,328,282,251,274,306,404,579
+T13886,Operations Management Techniques,1803:Management Science and Operations Research,189,192,182,210,196,211,199,239,232,213,171,165,133,144,143,181,206
+T13963,Organizational Management and Leadership,1405:Management of Technology and Innovation,410,406,454,427,415,423,385,336,321,296,308,307,294,304,349,433,604
+T13985,Enterprise Management and Information Systems,1405:Management of Technology and Innovation,736,803,844,786,803,776,756,723,699,908,955,812,779,943,1053,997,801
+T14014,Transportation Systems and Infrastructure,1405:Management of Technology and Innovation,68,82,111,90,96,98,103,83,76,100,74,61,66,63,59,91,113
+T14121,Logistics and Transportation Systems,1404:Management Information Systems,1464,1535,1620,1564,1699,1584,1613,1496,1514,1450,1277,964,805,986,1137,1382,1271
+T14147,Innovative Approaches in Technology and Social Development,1405:Management of Technology and Innovation,254,326,426,505,552,616,819,862,969,924,955,970,995,870,1002,1258,1437
+T14185,"Research, Science, and Academia",1802:Information Systems and Management,7440,7800,7918,7640,7899,8048,7770,6970,6903,6998,6916,6114,5275,5859,5365,6733,8038
 T14187,Varied Academic Research Topics,1404:Management Information Systems,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 T14211,Diverse academic research themes,1802:Information Systems and Management,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 T14221,activated carbon and charcoal,1803:Management Science and Operations Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-T14222,Knowledge Management and Technology,1803:Management Science and Operations Research,434,632,402,410,360,353,376,377,377,354,360,293,315,319,363,609,884
-T14260,Impact of AI and Big Data on Business and Society,1803:Management Science and Operations Research,25,24,33,22,32,53,89,129,200,374,474,615,680,1163,2540,4743,5252
-T14263,Professional Masters Programs Analysis,1802:Information Systems and Management,75,116,128,146,141,134,72,96,111,76,92,63,72,85,99,120,73
-T14280,Big Data Technologies and Applications,1802:Information Systems and Management,35,95,384,1044,1632,1772,1916,1759,1915,1717,1443,1275,1148,1055,1081,999,648
-T14320,Optics and Image Analysis,1404:Management Information Systems,323,310,351,337,364,480,388,386,435,397,363,182,130,113,140,171,258
+T14222,Knowledge Management and Technology,1803:Management Science and Operations Research,418,469,384,392,345,335,358,363,358,339,348,286,315,316,359,601,950
+T14260,Impact of AI and Big Data on Business and Society,1803:Management Science and Operations Research,23,23,32,22,31,51,87,128,193,368,459,598,678,1153,2530,4718,5815
+T14263,Professional Masters Programs Analysis,1802:Information Systems and Management,69,112,122,140,131,132,70,88,105,73,89,63,71,81,97,118,78
+T14280,Big Data Technologies and Applications,1802:Information Systems and Management,34,91,363,993,1557,1690,1851,1698,1862,1650,1390,1245,1126,1046,1085,986,692
+T14320,Optics and Image Analysis,1404:Management Information Systems,305,298,331,326,355,472,380,378,426,391,361,177,129,113,139,173,284
 T14328,Diverse scientific research topics,1803:Management Science and Operations Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-T14369,Diverse Interdisciplinary Research Innovations,1803:Management Science and Operations Research,21,29,12,16,15,16,13,9,12,11,9,6,10,11,10,40,133
-T14453,Sustainability and Innovation in Business,1405:Management of Technology and Innovation,368,404,484,545,496,525,534,622,632,743,879,943,954,1516,1812,2303,1800
-T14465,"Leadership, Behavior, and Decision-Making Studies",1803:Management Science and Operations Research,386,436,502,507,564,586,563,568,521,694,613,561,506,625,660,718,861
-T14509,demographic modeling and climate adaptation,1803:Management Science and Operations Research,113,139,158,146,189,150,222,341,141,150,148,165,167,138,143,204,373
+T14369,Diverse Interdisciplinary Research Innovations,1803:Management Science and Operations Research,21,27,12,16,13,16,12,8,12,11,8,6,10,11,10,41,142
+T14453,Sustainability and Innovation in Business,1405:Management of Technology and Innovation,347,380,443,499,449,500,507,594,606,710,839,909,947,1502,1791,2283,1940
+T14465,"Leadership, Behavior, and Decision-Making Studies",1803:Management Science and Operations Research,371,413,489,479,536,565,541,540,501,668,595,539,498,617,653,708,938
+T14509,demographic modeling and climate adaptation,1803:Management Science and Operations Research,107,137,152,142,179,141,214,333,136,143,139,159,158,136,140,197,408
